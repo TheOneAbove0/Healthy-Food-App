@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Healthy-Food-App/static/css/main.9e6ffd89.chunk.css",
+    "main.js": "/Healthy-Food-App/static/js/main.e009dc68.chunk.js",
+    "main.js.map": "/Healthy-Food-App/static/js/main.e009dc68.chunk.js.map",
+    "runtime-main.js": "/Healthy-Food-App/static/js/runtime-main.c91efc68.js",
+    "runtime-main.js.map": "/Healthy-Food-App/static/js/runtime-main.c91efc68.js.map",
+    "static/js/2.77348da1.chunk.js": "/Healthy-Food-App/static/js/2.77348da1.chunk.js",
+    "static/js/2.77348da1.chunk.js.map": "/Healthy-Food-App/static/js/2.77348da1.chunk.js.map",
+    "index.html": "/Healthy-Food-App/index.html",
+    "static/css/main.9e6ffd89.chunk.css.map": "/Healthy-Food-App/static/css/main.9e6ffd89.chunk.css.map",
+    "static/js/2.77348da1.chunk.js.LICENSE.txt": "/Healthy-Food-App/static/js/2.77348da1.chunk.js.LICENSE.txt",
+    "static/media/meals.93eddcd4.jpg": "/Healthy-Food-App/static/media/meals.93eddcd4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c91efc68.js",
+    "static/js/2.77348da1.chunk.js",
+    "static/css/main.9e6ffd89.chunk.css",
+    "static/js/main.e009dc68.chunk.js"
+  ]
+}
